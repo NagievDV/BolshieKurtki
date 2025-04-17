@@ -1,0 +1,78 @@
+﻿<Window x:Class="PM02_421_Maslo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Задача линейного программирования по Симплекс-методу" Height="650" Width="850"
+        Background="White">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="Padding" Value="4"/>
+            <Setter Property="Margin" Value="3"/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="Orange"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Padding" Value="6,4"/>
+            <Setter Property="Margin" Value="4"/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Margin" Value="2"/>
+        </Style>
+        <Style TargetType="Border">
+
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="Padding" Value="10"/>
+            <Setter Property="Margin" Value="0,0,0,10"/>
+            <Setter Property="BorderBrush" Value="#ccc"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+    </Window.Resources>
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Margin="20">
+
+            <Border>
+                <StackPanel Orientation="Horizontal">
+                    <StackPanel Margin="0,0,20,0">
+                        <TextBlock Text="Количество переменных:"/>
+                        <TextBox x:Name="VariablesCountTextBox" Width="100"/>
+                    </StackPanel>
+                    <StackPanel>
+                        <TextBlock Text="Количество ограничений:"/>
+                        <TextBox x:Name="ConstraintsCountTextBox" Width="100"/>
+                    </StackPanel>
+                    <Button Content="Далее" Click="SubmitButton_Click" Width="180" Height="30" Margin="20,0,0,0"/>
+                </StackPanel>
+            </Border>
+
+            <StackPanel x:Name="InputPanel" Visibility="Collapsed">
+                <Border>
+                    <StackPanel>
+                        <TextBlock Text="Матрица коэффициентов:" FontWeight="Bold" FontSize="16" Margin="0,0,0,8"/>
+                        <Grid x:Name="CoefficientsMatrixGrid" Margin="0,0,0,10"/>
+                        <TextBlock Text="Свободный член:" FontWeight="Bold" FontSize="16" Margin="0,0,0,8"/>
+                        <StackPanel x:Name="ResultsPanel" Margin="0,0,0,0"/>
+                    </StackPanel>
+                </Border>
+
+                <Border>
+                    <StackPanel>
+                        <TextBlock Text="Запасы ресурсов:" FontWeight="Bold" FontSize="16" Margin="0,0,0,8"/>
+                        <UniformGrid x:Name="ObjectiveFunctionGrid" Columns="1"/>
+                    </StackPanel>
+                </Border>
+
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="Решить" Click="SolveButton_Click" Width="150"/>
+                    <Button Content="Очистить" Click="ClearButton_Click" Width="120" Background="Orange"/>
+                    <Button Content="Сохранить в файл" Click="SaveToFileButton_Click" Width="180" Background="Orange"/>
+                </StackPanel>
+
+                <TextBlock x:Name="ResultTextBlock" FontSize="16" FontWeight="Bold" TextWrapping="Wrap" Margin="0,10,0,0"/>
+            </StackPanel>
+        </StackPanel>
+    </ScrollViewer>
+</Window>
+

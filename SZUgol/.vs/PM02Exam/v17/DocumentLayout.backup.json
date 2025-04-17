@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\217104\\source\\repos\\PM02Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6793B5DD-B13E-4C6F-8FD4-7A1BD62544BA}|PM02Exam\\PM02Exam.csproj|c:\\users\\217104\\source\\repos\\pm02exam\\pm02exam\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6793B5DD-B13E-4C6F-8FD4-7A1BD62544BA}|PM02Exam\\PM02Exam.csproj|solutionrelative:pm02exam\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6793B5DD-B13E-4C6F-8FD4-7A1BD62544BA}|PM02Exam\\PM02Exam.csproj|C:\\Users\\217104\\source\\repos\\PM02Exam\\pm02exam\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6793B5DD-B13E-4C6F-8FD4-7A1BD62544BA}|PM02Exam\\PM02Exam.csproj|solutionrelative:pm02exam\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6793B5DD-B13E-4C6F-8FD4-7A1BD62544BA}|PM02Exam\\PM02Exam.csproj|C:\\Users\\217104\\source\\repos\\PM02Exam\\pm02exam\\dictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6793B5DD-B13E-4C6F-8FD4-7A1BD62544BA}|PM02Exam\\PM02Exam.csproj|solutionrelative:pm02exam\\dictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6793B5DD-B13E-4C6F-8FD4-7A1BD62544BA}|PM02Exam\\PM02Exam.csproj|C:\\Users\\217104\\source\\repos\\PM02Exam\\pm02exam\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6793B5DD-B13E-4C6F-8FD4-7A1BD62544BA}|PM02Exam\\PM02Exam.csproj|solutionrelative:pm02exam\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\217104\\source\\repos\\PM02Exam\\PM02Exam\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PM02Exam\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\217104\\source\\repos\\PM02Exam\\PM02Exam\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PM02Exam\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAmwJYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:23:10.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\217104\\source\\repos\\PM02Exam\\PM02Exam\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PM02Exam\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\217104\\source\\repos\\PM02Exam\\PM02Exam\\MainWindow.xaml",
+              "RelativeToolTip": "PM02Exam\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T11:23:10.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\217104\\source\\repos\\PM02Exam\\PM02Exam\\App.xaml",
+              "RelativeDocumentMoniker": "PM02Exam\\App.xaml",
+              "ToolTip": "C:\\Users\\217104\\source\\repos\\PM02Exam\\PM02Exam\\App.xaml",
+              "RelativeToolTip": "PM02Exam\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T11:43:19.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dictionary.xaml",
+              "DocumentMoniker": "C:\\Users\\217104\\source\\repos\\PM02Exam\\PM02Exam\\Dictionary.xaml",
+              "RelativeDocumentMoniker": "PM02Exam\\Dictionary.xaml",
+              "ToolTip": "C:\\Users\\217104\\source\\repos\\PM02Exam\\PM02Exam\\Dictionary.xaml",
+              "RelativeToolTip": "PM02Exam\\Dictionary.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T11:42:58.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

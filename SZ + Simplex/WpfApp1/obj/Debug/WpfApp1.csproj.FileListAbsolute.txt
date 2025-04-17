@@ -1,0 +1,111 @@
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\bin\Debug\WpfApp1.exe
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\Min.g.cs
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\Page1.g.cs
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\Ygl.g.cs
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\App.g.cs
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\MainWindow.baml
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\Min.baml
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\Page1.baml
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\Ygl.baml
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\WpfApp1.exe
+C:\учеба\02.пм\сафонова\oporniplan-master\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\bin\Debug\WpfApp1.exe
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\Min.g.cs
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\Page1.g.cs
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\Ygl.g.cs
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\App.g.cs
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\MainWindow.baml
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\Min.baml
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\Page1.baml
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\Ygl.baml
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\WpfApp1.exe
+C:\учеба\02.пм\сафонова\oporniplan-master — копия\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\Min.g.cs
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\Page1.g.cs
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\Ygl.g.cs
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\Min.baml
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\Page1.baml
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\Ygl.baml
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\Dictionary.baml
+C:\Users\Alfa\Desktop\опорныйплан\WpfApp1\obj\Debug\App.baml
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\bin\Debug\WpfApp1.exe
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\Dictionary.baml
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\Min.g.cs
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\Page1.g.cs
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\Ygl.g.cs
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\App.g.cs
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\App.baml
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\MainWindow.baml
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\Min.baml
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\Page1.baml
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\Ygl.baml
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\WpfApp1.exe
+C:\учеба\02.пм\сафонова\1ОПОРНЫЙ\сз и минимальный\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\Dictionary.baml
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\Min.g.cs
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\Page1.g.cs
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\Ygl.g.cs
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\App.g.cs
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\App.baml
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\Min.baml
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\Page1.baml
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\Ygl.baml
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\gdmit\Desktop\BolshieKurtki\SZ + Simplex\WpfApp1\obj\Debug\WpfApp1.pdb

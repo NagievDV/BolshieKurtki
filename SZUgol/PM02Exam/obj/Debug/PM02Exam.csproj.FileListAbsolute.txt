@@ -1,0 +1,17 @@
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\bin\Debug\PM02Exam.exe.config
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\bin\Debug\PM02Exam.exe
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\bin\Debug\PM02Exam.pdb
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\obj\Debug\PM02Exam.csproj.AssemblyReference.cache
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\obj\Debug\MainWindow.g.cs
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\obj\Debug\App.g.cs
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\obj\Debug\PM02Exam_MarkupCompile.cache
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\obj\Debug\PM02Exam_MarkupCompile.lref
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\obj\Debug\MainWindow.baml
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\obj\Debug\PM02Exam.g.resources
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\obj\Debug\PM02Exam.Properties.Resources.resources
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\obj\Debug\PM02Exam.csproj.GenerateResource.cache
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\obj\Debug\PM02Exam.csproj.CoreCompileInputs.cache
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\obj\Debug\PM02Exam.exe
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\obj\Debug\PM02Exam.pdb
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\obj\Debug\Dictionary.baml
+C:\Users\217104\source\repos\PM02Exam\PM02Exam\obj\Debug\App.baml
